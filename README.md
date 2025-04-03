@@ -24,8 +24,7 @@ Sorting Visualizer is an interactive web application that allows users to explor
 ## Installation and Usage
 To run the Sorting Visualizer locally:
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/clementmihailescu/Sorting-Visualizer.git
+   ```shgit@github.com:mishraShilpa-28/sorting-visualizer.git://github.com/clementmihailescu/Sorting-Visualizer.git
    ```
 2. Navigate to the project folder:
    ```sh
