@@ -1,7 +1,7 @@
 # Sorting Visualizer
 
 ## Overview
-Sorting Visualizer is an interactive web application that allows users to explore and visualize various sorting algorithms in action. This project was created out of a fascination with sorting techniques and aims to provide an educational and engaging experience for users. [Live Preview](https://mishrashilpa-28.github.io/sorting-visualizer/)
+Sorting Visualizer is an interactive web application that allows users to explore and visualize various sorting algorithms in action. This project was created out of a fascination with sorting techniques and aims to provide an educational and engaging experience for users.
 
 ## Features
 - Supports multiple sorting algorithms, including:
@@ -42,7 +42,7 @@ To run the Sorting Visualizer locally:
 5. Open your browser and visit `http://localhost:3000/`.
 
 ## Demo
-You can try out the live version of the Sorting Visualizer here: [Sorting Visualizer](https://shilpamimishraShilpa-28.github.io/sorting-visualizer/) (Best viewed in Google Chrome).
+You can try out the live version of the Sorting Visualizer here: [Sorting Visualizer](https://mishrashilpa-28.github.io/sorting-visualizer/) (Best viewed in Google Chrome).
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request with improvements or additional sorting algorithms.
