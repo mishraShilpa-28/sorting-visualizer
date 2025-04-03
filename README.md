@@ -1,7 +1,7 @@
 # Sorting Visualizer
 
 ## Overview
-Sorting Visualizer is an interactive web application that allows users to explore and visualize various sorting algorithms in action. This project was created out of a fascination with sorting techniques and aims to provide an educational and engaging experience for users.
+Sorting Visualizer is an interactive web application that allows users to explore and visualize various sorting algorithms in action. This project was created out of a fascination with sorting techniques and aims to provide an educational and engaging experience for users. [Live Preview](https://mishrashilpa-28.github.io/sorting-visualizer/)
 
 ## Features
 - Supports multiple sorting algorithms, including:
